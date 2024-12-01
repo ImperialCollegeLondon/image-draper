@@ -89,7 +89,7 @@ shiboken6==6.7.2
     #   pyside6-essentials
 typing-extensions==4.12.2
     # via mypy
-virtualenv==20.26.3
+virtualenv==20.28.0
     # via pre-commit
 wheel==0.44.0
     # via pip-tools
